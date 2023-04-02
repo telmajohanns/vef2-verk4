@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom'
 import './DepartmentsList.css'
 
+
 function DList() {
-    
-    const [departments, setDepartments] = useState([]);
+  const [departments, setDepartments] = useState([]);
 
   useEffect(() => {
     async function fetchData() {
