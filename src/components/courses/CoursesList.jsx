@@ -27,7 +27,7 @@ function CInfo(_props) {
       <table>
         <thead>
           <tr>
-            <th>D</th>
+            <th>Númer</th>
             <th>Heiti námskeiðis</th>
             <th>Course units</th>
             <th>Course semester</th>
